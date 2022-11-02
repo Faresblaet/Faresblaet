@@ -1,0 +1,7 @@
+)]}'
+{
+  "id": "16cded81413d17b527847500f0b4256adfa201f3",
+  "repo": "platform//frameworks/native",
+  "revision": "682f459f94a65a5641c2e52303b515b089a96ab2",
+  "path": "libs/adbd_auth/Android.bp"
+}
